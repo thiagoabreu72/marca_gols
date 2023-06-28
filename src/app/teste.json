@@ -1,0 +1,17 @@
+[
+  {
+    "dataDemissao": "0000-00-00",
+    "permissao_modulos": {
+      "modulo": [{ "produto": "batida_mobile", "valor": "1" }]
+    },
+    "matricula": "78",
+    "cpf": "063.368.879-79",
+    "departamento": "GESTÃO DE PESSOAS RH",
+    "nome": "THIAGO MORALES DE ABREU",
+    "pis": "16550972648",
+    "cnpj": "000.980.608/0001-20",
+    "dataAdmissao": "2018-12-03",
+    "cargo": "DESENVOLVEDOR INTERNO",
+    "sexo": "M"
+  }
+]
